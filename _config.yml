@@ -31,7 +31,6 @@ github_username:  jekyll
 
 domain: jekyll.github.io
 url: https://www.jekyll.github.io
-baseurl: /master/
 
 # Build settings
 theme: minima

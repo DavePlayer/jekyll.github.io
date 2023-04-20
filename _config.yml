@@ -17,6 +17,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+github: [metadata]
 markdown: GFM
 title: Your awesome title
 email: your-email@example.com
@@ -34,11 +35,11 @@ url: https://www.jekyll.github.io
 baseurl: /jekyll.github.io/ 
 
 # Build settings
-# theme: minima
-remote_theme: pages-themes/dinky@v0.2.0
+theme: minima
+# remote_theme: pages-themes/hacker
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
-  - jekyll-remote-theme 
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "POST-TITLE"
-date: YYYY-MM-DD hh:mm:ss -0000
+date: 2023-04-20 05:25:00 -0200
 categories: CATEGORY-1 CATEGORY-2
 ---
 
